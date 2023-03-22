@@ -6,6 +6,7 @@
 	</a>
 	<br><sub>The open-source Interpreter Modules part of a big Dot-Net-Based Framework, to makes easy software developments.</sub>
 </h1>
+<p>The Interpreter part of the MiMFa .Net-based Framework, contains multiple language interpreter engines and their handlers like JavaScript V8 Engine, Visual-Basic Engine, and so on.</p>
 <h2>Dependencies</h2>
 <ol>
   <li><a href="https://versionsof.net/framework/4.5.2">.Net Framework 4.5.2</a></li>
