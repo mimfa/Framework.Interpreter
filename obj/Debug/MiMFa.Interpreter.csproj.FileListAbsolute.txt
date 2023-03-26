@@ -1,10 +1,36 @@
-D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\obj\Debug\MiMFa.Interpreter.csproj.CoreCompileInputs.cache
-D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\MiMFa Framework.Interpreter.dll
-D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\MiMFa Framework.Interpreter.pdb
 D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\ClearScript.Core.dll
 D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\ClearScript.V8.dll
 D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\ClearScript.Windows.Core.dll
 D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\ClearScript.Windows.dll
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\ClearScriptV8.win-x64.dll
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\ClearScriptV8.win-x86.dll
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\Library\CanvasJS-Chart.js
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\Library\Chart.js
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\Library\Google-Chart.js
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\Library\JQuery-SparkLine.js
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\Library\JQuery.js
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\Library\Math.js
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\Package\Html\Scripts\Default.js
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\Package\Html\Styles\Default.css
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\Package\Html\Styles\Preset.css
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\Package\Html\Styles\Reset.css
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\ClearScriptV8.ICU.dat
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\Package\Html\Fonts\DUBAI-BOLD.TTF
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\Package\Html\Fonts\DefaultFont.TTF
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\Package\Html\Fonts\DUBAI-LIGHT.TTF
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\Package\Html\Fonts\DUBAI-MEDIUM.TTF
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\Package\Html\Fonts\DUBAI-REGULAR.TTF
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\Package\Array\Array.js
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\Package\General\Global.js
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\Package\Html\Html.js
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\Package\Math\Global.js
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\Package\Math\Math.js
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\Package\String\String.js
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\Package\String\Text.js
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\Package\System\System.js
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\Package\View\Global.js
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\MiMFa Framework.Interpreter.dll
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\MiMFa Framework.Interpreter.pdb
 D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\MiMFa Framework.dll
 D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\System.Data.SQLite.dll
 D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\HtmlAgilityPack.dll
@@ -12,34 +38,8 @@ D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\D
 D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\MiMFa Framework.dll.config
 D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\HtmlAgilityPack.pdb
 D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\HtmlAgilityPack.xml
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\obj\Debug\MiMFa.Interpreter.csproj.AssemblyReference.cache
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\obj\Debug\MiMFa.Interpreter.csproj.CoreCompileInputs.cache
 D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\obj\Debug\MiMFa.Interpreter.csproj.CopyComplete
 D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\obj\Debug\MiMFa Framework.Interpreter.dll
 D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\obj\Debug\MiMFa Framework.Interpreter.pdb
-D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\Package\Array\Array.js
-D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\Package\General\Global.js
-D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\Package\Html\Html.js
-D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\Package\Html\Scripts\Default.js
-D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\Package\Html\Styles\Default.css
-D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\Package\Math\Global.js
-D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\Package\Math\Math.js
-D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\Package\String\String.js
-D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\Package\String\Text.js
-D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\Package\View\Global.js
-D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\Package\Html\Fonts\DUBAI-BOLD.TTF
-D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\Package\Html\Fonts\DefaultFont.TTF
-D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\Package\Html\Fonts\DUBAI-LIGHT.TTF
-D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\Package\Html\Fonts\DUBAI-MEDIUM.TTF
-D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\Package\Html\Fonts\DUBAI-REGULAR.TTF
-D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\Package\System\System.js
-D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\Package\Html\Styles\Preset.css
-D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\Package\Html\Styles\Reset.css
-D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\Library\CanvasJS-Chart.js
-D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\Library\Chart.js
-D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\Library\Google-Chart.js
-D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\Library\JQuery-SparkLine.js
-D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\Library\JQuery.js
-D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\Library\Math.js
-D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\obj\Debug\MiMFa.Interpreter.csproj.AssemblyReference.cache
-D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\ClearScriptV8.win-x64.dll
-D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\ClearScriptV8.win-x86.dll
-D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\ClearScriptV8.ICU.dat

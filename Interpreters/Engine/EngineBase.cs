@@ -57,7 +57,7 @@ namespace MiMFa.Interpreters.Engine
             Engine.ContinuationCallback = new ContinuationCallback(()=> ContinueSwitch);
             Engine.DocumentSettings.SearchPath = Config.ApplicationDirectory;
             Engine.DocumentSettings.AccessFlags = DocumentAccessFlags.EnableFileLoading;
-            Initialize();
+            InitializeEngine();
             InjectDefaults();
         }
 

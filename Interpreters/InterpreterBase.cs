@@ -116,9 +116,18 @@ namespace MiMFa.Interpreters
         /// Initialize the engine
         /// </summary>
         /// <returns></returns>
-        public virtual void Initialize()
+        public virtual void InitializeEngine()
         {
             Libraries = new List<string>();
+        }
+
+        /// <summary>
+        /// Initialize the engine
+        /// </summary>
+        /// <returns></returns>
+        public virtual void Initialize()
+        {
+            Initialize(true, true);
         }
         /// <summary>
         /// Initialize the engine
@@ -126,7 +135,7 @@ namespace MiMFa.Interpreters
         /// <returns></returns>
         public void Initialize(bool injectBasic, bool injectDefault)
         {
-            Initialize();
+            InitializeEngine();
             if (injectBasic) InjectBasics();
             if (injectDefault) InjectDefaults();
         }
@@ -135,10 +144,14 @@ namespace MiMFa.Interpreters
             Initialize(true,true);
             InjectAssembly("Root", rootAssemblies);
         }
-        public virtual void Finalize()
+        public virtual void FinalizeEngine()
         {
             Libraries = new List<string>();
             Interrupt();
+        }
+        public virtual void Finalize()
+        {
+            FinalizeEngine();
         }
 
         public virtual void InjectBasics()
