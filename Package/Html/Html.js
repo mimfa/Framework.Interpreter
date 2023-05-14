@@ -204,6 +204,11 @@ Html.bold = (content, attributes = {}) => Html(content, "b", { ...{ CLASS: "bold
 Html.italic = (content, attributes = {}) => Html(content, "i", { ...{ CLASS: "italic" }, ...attributes });
 Html.big = (content, attributes = {}) => Html(content, "span", { ...{ CLASS: "big" }, ...attributes });
 Html.small = (content, attributes = {}) => Html(content, "span", { ...{ CLASS: "small" }, ...attributes });
+Html.message = (content, attributes = {}) => Html(content, "div", { ...{ CLASS: "result message" }, ...attributes });
+Html.success = (content, attributes = {}) => Html(content, "div", { ...{ CLASS: "result success" }, ...attributes });
+Html.error = (content, attributes = {}) => Html(content, "div", { ...{ CLASS: "result error" }, ...attributes });
+Html.warning = (content, attributes = {}) => Html(content, "div", { ...{ CLASS: "result warning" }, ...attributes });
+
 
 Html.link = (link, anchor = null, attributes = {}) => Html(anchor ?? link, "a", { ...{ HREF: link, CLASS: "link" }, ...attributes });
 
