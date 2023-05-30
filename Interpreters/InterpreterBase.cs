@@ -122,7 +122,7 @@ namespace MiMFa.Interpreters
         }
 
         /// <summary>
-        /// Initialize the engine
+        /// Initialize all, contains engine, basic and default
         /// </summary>
         /// <returns></returns>
         public virtual void Initialize()
@@ -130,7 +130,7 @@ namespace MiMFa.Interpreters
             Initialize(true, true);
         }
         /// <summary>
-        /// Initialize the engine
+        /// Initialize engine, basic and default
         /// </summary>
         /// <returns></returns>
         public void Initialize(bool injectBasic, bool injectDefault)
