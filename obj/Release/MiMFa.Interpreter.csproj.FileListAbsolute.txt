@@ -44,3 +44,49 @@ D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\R
 D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\ClearScriptV8.win-x64.dll
 D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\ClearScriptV8.win-x86.dll
 D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\ClearScriptV8.ICU.dat
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\ClearScript.Core.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\ClearScript.V8.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\ClearScript.Windows.Core.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\ClearScript.Windows.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\ClearScriptV8.win-x64.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\ClearScriptV8.win-x86.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\Library\CanvasJS-Chart.js
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\Library\Chart.js
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\Library\Google-Chart.js
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\Library\JQuery-SparkLine.js
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\Library\JQuery.js
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\Library\Math.js
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\Package\Html\Scripts\Default.js
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\Package\Html\Styles\Default.css
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\Package\Html\Styles\Preset.css
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\Package\Html\Styles\Reset.css
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\ClearScriptV8.ICU.dat
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\Package\Html\Fonts\DUBAI-BOLD.TTF
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\Package\Html\Fonts\DefaultFont.TTF
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\Package\Html\Fonts\DUBAI-LIGHT.TTF
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\Package\Html\Fonts\DUBAI-MEDIUM.TTF
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\Package\Html\Fonts\DUBAI-REGULAR.TTF
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\Package\Array\Array.js
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\Package\General\Global.js
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\Package\Html\Html.js
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\Package\Math\Global.js
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\Package\Math\Math.js
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\Package\String\String.js
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\Package\String\Text.js
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\Package\System\System.js
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\Package\View\Global.js
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\MiMFa Framework.Interpreter.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\MiMFa Framework.Interpreter.pdb
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\MiMFa Framework.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\System.Data.SQLite.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\HtmlAgilityPack.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\System.ValueTuple.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\MiMFa Framework.pdb
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\MiMFa Framework.dll.config
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\HtmlAgilityPack.pdb
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\HtmlAgilityPack.xml
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\obj\Release\MiMFa.Interpreter.csprojAssemblyReference.cache
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\obj\Release\MiMFa.Interpreter.csproj.CoreCompileInputs.cache
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\obj\Release\MiMFa.Interpreter.csproj.CopyComplete
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\obj\Release\MiMFa Framework.Interpreter.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\obj\Release\MiMFa Framework.Interpreter.pdb

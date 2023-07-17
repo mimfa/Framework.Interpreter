@@ -52,7 +52,7 @@ namespace MiMFa.Interpreters.Engine
             Engine.DisableTypeRestriction = false;
             Engine.DisableListIndexTypeRestriction = false;
             Engine.DisableExtensionMethods = false;
-            Engine.DisableFloatNarrowing = false;
+            Engine.DisableFloatNarrowing = false; 
             Engine.UseReflectionBindFallback = false;
             Engine.ContinuationCallback = new ContinuationCallback(()=> ContinueSwitch);
             Engine.DocumentSettings.SearchPath = Config.ApplicationDirectory;
