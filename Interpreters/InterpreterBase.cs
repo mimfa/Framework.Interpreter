@@ -180,6 +180,7 @@ namespace MiMFa.Interpreters
         }
         public virtual void InjectDefaults()
         {
+            InjectBasics();
             InjectDefaultAssemblies();
             InjectDefaultTypes();
             InjectDefaultObjects();
@@ -250,11 +251,11 @@ namespace MiMFa.Interpreters
         /// <returns></returns>
         public IEnumerable<object> Evaluate(bool withException, params string[] pathsOrScripts)
         {
-            if (withException) foreach (var path in pathsOrScripts) yield return Evaluate(path, Script(path));
+            if (withException) foreach (var path in pathsOrScripts) yield return Evaluate(InfoService.IsAddress(path)? path:null, Script(path));
             else foreach (var path in pathsOrScripts)
                 {
                     object obj = null;
-                    try { obj = Evaluate(path, Script(path)); } catch { }
+                    try { obj = Evaluate(InfoService.IsAddress(path) ? path : null, Script(path)); } catch { }
                     yield return obj;
                 }
         }
@@ -287,8 +288,8 @@ namespace MiMFa.Interpreters
         /// <returns></returns>
         public void Execute(string[] pathsOrScripts, bool withException = true)
         {
-            if (withException) foreach (var path in pathsOrScripts) Execute(path, Script(path));
-            else foreach (var path in pathsOrScripts) try { Execute(path, Script(path)); } catch { }
+            if (withException) foreach (var path in pathsOrScripts) Execute(InfoService.IsAddress(path) ? path : null, Script(path));
+            else foreach (var path in pathsOrScripts) try { Execute(InfoService.IsAddress(path) ? path : null, Script(path)); } catch { }
         }
 
         /// <summary>
@@ -318,11 +319,11 @@ namespace MiMFa.Interpreters
         /// <returns></returns>
         public IEnumerable<string> ExecuteCommand(bool withException, params string[] pathsOrScripts)
         {
-            if (withException) foreach (var path in pathsOrScripts) yield return ExecuteCommand(path, Script(path));
+            if (withException) foreach (var path in pathsOrScripts) yield return ExecuteCommand(InfoService.IsAddress(path) ? path : null, Script(path));
             else foreach (var path in pathsOrScripts)
                 {
                     string obj = null;
-                    try { obj = ExecuteCommand(path, Script(path)); } catch { }
+                    try { obj = ExecuteCommand(InfoService.IsAddress(path) ? path : null, Script(path)); } catch { }
                     yield return obj;
                 }
         }
@@ -353,11 +354,11 @@ namespace MiMFa.Interpreters
         /// <returns></returns>
         public IEnumerable<object> Module(bool withException, params string[] pathsOrScripts)
         {
-            if (withException) foreach (var path in pathsOrScripts) yield return Module(path, Script(path));
+            if (withException) foreach (var path in pathsOrScripts) yield return Module(InfoService.IsAddress(path) ? path : null, Script(path));
             else foreach (var path in pathsOrScripts)
                 {
                     object o = null;
-                    try { o = Module(path, Script(path)); } catch { }
+                    try { o = Module(InfoService.IsAddress(path) ? path : null, Script(path)); } catch { }
                     yield return o;
                 }
         }
@@ -414,7 +415,7 @@ namespace MiMFa.Interpreters
         {
             extension = extension ?? Extension;
             if (string.IsNullOrWhiteSpace(addressOrScripts)) return null;
-            if(Path.InvalidPathChars.Any(v=> addressOrScripts.Contains(v)))return addressOrScripts;
+            if(Path.InvalidPathChars.Any(v=> addressOrScripts.Contains(v))) return addressOrScripts;
             else if(File.Exists(addressOrScripts)) return File.ReadAllText(addressOrScripts);
             else if (Directory.Exists(addressOrScripts))
             {

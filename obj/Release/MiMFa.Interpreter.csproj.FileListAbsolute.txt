@@ -60,7 +60,6 @@ D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\Pa
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\Package\Html\Styles\Default.css
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\Package\Html\Styles\Preset.css
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\Package\Html\Styles\Reset.css
-D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\ClearScriptV8.ICU.dat
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\Package\Html\Fonts\DUBAI-BOLD.TTF
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\Package\Html\Fonts\DefaultFont.TTF
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\Package\Html\Fonts\DUBAI-LIGHT.TTF
@@ -85,8 +84,20 @@ D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\Mi
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\MiMFa Framework.dll.config
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\HtmlAgilityPack.pdb
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\HtmlAgilityPack.xml
-D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\obj\Release\MiMFa.Interpreter.csprojAssemblyReference.cache
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\obj\Release\MiMFa.Interpreter.csproj.CoreCompileInputs.cache
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\obj\Release\MiMFa.Interpreter.csproj.CopyComplete
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\obj\Release\MiMFa Framework.Interpreter.dll
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\obj\Release\MiMFa Framework.Interpreter.pdb
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\ClearScript.V8.ICUData.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\Newtonsoft.Json.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\ClearScript.Core.xml
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\ClearScript.V8.xml
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\ClearScript.V8.ICUData.xml
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\ClearScript.Windows.xml
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\ClearScript.Windows.Core.xml
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\Newtonsoft.Json.xml
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\System.ValueTuple.xml
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\Microsoft.ClearScript.V8.Native.win-x64.props
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\Microsoft.ClearScript.V8.Native.win-x86.props
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\obj\Release\MiMFa.Interpreter.csproj.AssemblyReference.cache

@@ -8,12 +8,13 @@ let ID = (new Date(
 	INITTIME.getUTCSeconds(),
 	INITTIME.getUTCMilliseconds())).getTime();
 
-const MiMFa = Library.MiMFa;
+//const MiMFa = Library.MiMFa;
 const once = engine.Once;
 const use = engine.Use;
 const useAsync = engine.UseAsync;
 const evaluate = engine.Evaluate;
 const execute = engine.Execute;
+const compile = engine.Compile;
 
 
 const isNull         	= function(obj) {

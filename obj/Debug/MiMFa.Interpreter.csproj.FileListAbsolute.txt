@@ -59,7 +59,6 @@ D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\Pack
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\Package\Html\Styles\Default.css
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\Package\Html\Styles\Preset.css
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\Package\Html\Styles\Reset.css
-D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\ClearScriptV8.ICU.dat
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\Package\Html\Fonts\DUBAI-BOLD.TTF
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\Package\Html\Fonts\DefaultFont.TTF
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\Package\Html\Fonts\DUBAI-LIGHT.TTF
@@ -88,3 +87,16 @@ D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\obj\Debug\MiMF
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\obj\Debug\MiMFa.Interpreter.csproj.CopyComplete
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\obj\Debug\MiMFa Framework.Interpreter.dll
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\obj\Debug\MiMFa Framework.Interpreter.pdb
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\ClearScript.V8.ICUData.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\Newtonsoft.Json.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\System.ValueTuple.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\ClearScript.Core.xml
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\ClearScript.V8.xml
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\ClearScript.V8.ICUData.xml
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\ClearScript.Windows.xml
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\ClearScript.Windows.Core.xml
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\Newtonsoft.Json.xml
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\System.ValueTuple.xml
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\Microsoft.ClearScript.V8.Native.win-x64.props
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\Microsoft.ClearScript.V8.Native.win-x86.props

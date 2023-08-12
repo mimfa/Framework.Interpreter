@@ -111,12 +111,17 @@ Math.maximum        = function()
     return res;
 }
 
-
-Math.sigma       = function(i=0, k=100, func = o=>o)
-{
+Math.sigma = function (i = 0, k = 100, func = o => o) {
     let d = 0;
     for (; i < k; i++)
         d += func(i);
+    return d;
+}
+
+Math.phi = function (i = 0, k = 100, func = o => o) {
+    let d = 0;
+    for (; i < k; i++)
+        d *= func(i);
     return d;
 }
 
@@ -169,7 +174,7 @@ Math.logarithm      = function() {
     else return Math.log(arguments[0]) / Math.log(10);
 }
 
-Math.cot           = function() 
+Math.cot            = function() 
 {
     return 1/Math.tan.apply(null,arguments);
 }
@@ -192,8 +197,8 @@ Math.decimals       = function(num, dec = 2)
 
 Math.slice			= function(slicesNumber, x = 100, y = 100, minX=null, minY = null)
 {
-	if (minX == null) minX = x/10
-	if (minY == null) minY = y/10;
+    if (minX == null) minX = x / 10;
+    if (minY == null) minY = y / 10;
 	
 	let xLength = 1;
 	let yLength = 1;

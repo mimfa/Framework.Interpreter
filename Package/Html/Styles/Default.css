@@ -5,6 +5,7 @@
 
 html, body {
 	font-family: "defaultFont", tahoma, arial !important;
+	font: var(--Palette-Font);
 	margin: 0px;
 	padding: 0px;
 	border: none;
@@ -14,43 +15,49 @@ html, body {
 }
 
 ::-webkit-scrollbar {
-	background: #22886611; 
+	background-color: var(--Palette-SpecialBackColor);
 	width: 10px;
 	height: 10px;
 }
+
 ::-webkit-scrollbar-track {
-	box-shadow: inset 0 0 5px gray; 
+	box-shadow: inset 0 0 5px gray;
 	border-radius: 5px;
-	transition: all 0.25s;
-}
-::-webkit-scrollbar-thumb {
-	background: #22886655; 
-	border-radius: 5px;
-	transition: all 0.25s;
-}
-::-webkit-scrollbar-thumb:hover {
-	background: #228866;
 	transition: all 0.25s;
 }
 
-h1, h2, h3, h4, h5, h6{
-	color: #228866;
+::-webkit-scrollbar-thumb {
+	background-color: var(--Palette-InputBackColor);
+	border-radius: 5px;
+	transition: all 0.25s;
+}
+
+	::-webkit-scrollbar-thumb:hover {
+		background-color: var(--Palette-ButtonBackColor);
+		transition: all 0.25s;
+	}
+
+h1, h2, h3, h4, h5, h6 {
+	color: var(--Palette-SpecialForeColor);
 	padding-bottom: 6pt;
 	margin-bottom: 6pt;
 	text-align: center;
 }
-iframe.embed{
+
+iframe.embed {
 	display: inline-block;
 	margin: 0px;
 	padding: 0px;
 	border: none;
 }
-div.page{
+
+div.page {
 	margin: 5px;
 	padding: 5px;
 	color: #333;
 }
-div.part{
+
+div.part {
 	margin: 20px 5px;
 	padding: 5px;
 	border: 1px solid transparent;
@@ -58,38 +65,46 @@ div.part{
 	display: block;
 	transition: all 0.25s;
 }
-div.part:hover{
-	border: 1px solid #eee;
-	transition: all 0.25s;
-}
-div.panel{
+
+	div.part:hover {
+		border: 1px solid var(--Palette-SpecialBackColor);
+		transition: all 0.25s;
+	}
+
+div.panel {
 	padding: 10px;
 	display: inline-block;
 }
-div.box{
+
+div.box {
 	padding: 5px;
 	border: 3px solid transparent;
 	border-radius: 5px;
 	display: inline-block;
-    /* overflow: hidden; */
+	/* overflow: hidden; */
 	transition: all 0.25s;
 }
-div.box:hover{
-	border: 3px solid #228866;
-	box-shadow: 0px 0px 15px #0002;
-	transition: all 0.25s;
+
+	div.box:hover {
+		border: 3px solid var(--Palette-SpecialBackColor);
+		box-shadow: 0px 0px 15px #0002;
+		transition: all 0.25s;
+	}
+
+div.element {
 }
-div.element{
-}
-div.center{
+
+div.center {
 	text-align: center;
 }
-h1.supertitle{
+
+h1.supertitle {
 	text-align: center;
-	color: #228866;
-	border-bottom: 1px solid #228866;
+	color: var(--Palette-SpecialForeColor);
+	border-bottom: 1px solid var(--Palette-SpecialBackColor);
 }
-p.context{
+
+p.context {
 	text-align: justify;
 	font-size: 120%;
 	padding: 10px;
@@ -97,115 +112,141 @@ p.context{
 	display: inline-block;
 	transition: all 0.25s;
 }
-p.context:hover{
-	border-left: 3px solid #228866;
-	padding-left: 20px;
-	box-shadow: 0px 0px 15px #0005;
-	transition: all 0.25s;
-}
-span.label{
+
+	p.context:hover {
+		border-left: 3px solid var(--Palette-SpecialBackColor);
+		padding-left: 20px;
+		box-shadow: 0px 0px 15px #0005;
+		transition: all 0.25s;
+	}
+
+span.label {
 	font-size: 100%;
 }
-b.bold{
+
+b.bold {
 }
-i.italic{
+
+i.italic {
 }
-span.big{
+
+span.big {
 	font-size: 125%;
 }
-span.small{
+
+span.small {
 	font-size: 75%;
 }
-img.image{
+
+img.image {
 	max-width: 90%;
 	max-height: 90%;
 }
-table.table{
+
+table.table {
 	border-collapse: collapse;
 	border-radius: 5px;
 	margin: 10px;
 }
-tr.col{
-	background-color: #efefef;
+
+tr.col {
+	background-color: var(--Palette-SpecialBackColor);
+	color: var(--Palette-SpecialForeColor);
 	transition: all 0.25s;
 }
-tr.col:hover{
-	transition: all 0.25s;
+
+	tr.col:hover {
+		transition: all 0.25s;
+	}
+
+tr.row {
+	background-color: var(--Palette-BackColor);
+	color: var(--Palette-ForeColor);
 }
-tr.row:nth-child(even){
-	background-color: #fdfdff;
-}
-tr.row:nth-child(odd){
-	background-color: #f9f9ff;
-}
-tr.row:hover{
-	background-color: #22886622;
-	color: #111;
-	transition: all 0.25s;
-}
-tr.row:hover td{
-	border-color: #228866;
-	transition: all 0.25s;
-}
-th.header{
-	background-color: #efefef;
+
+	tr.row:nth-child(even) {
+		background-color: #8881;
+	}
+
+	tr.row:nth-child(odd) {
+	}
+
+	tr.row:hover {
+		background-color: var(--Palette-SpecialBackColor);
+		color: var(--Palette-SpecialForeColor);
+		transition: all 0.25s;
+	}
+
+		tr.row:hover td {
+			border-color: var(--Palette-SpecialBackColor);
+			transition: all 0.25s;
+		}
+
+th.header {
+	background-color: var(--Palette-SpecialBackColor);
+	color: var(--Palette-SpecialForeColor);
 	padding: 10px;
 }
-td.cell{
+
+td.cell {
 	padding: 5px;
 	transition: all 0.25s;
 }
-tr:hover th.header{
-	background-color: #228866aa;
-	color: #fff;
+
+tr:hover th.header {
+	background-color: var(--Palette-ThirdSpecialBackColor);
+	color: var(--Palette-ThirdSpecialForeColor);
 	transition: all 0.25s;
 }
-tr:hover th.header:hover{
-	background-color: #666;
-	color: #fff;
+
+	tr:hover th.header:hover {
+		background-color: var(--Palette-FirstSpecialBackColor);
+		color: var(--Palette-FirstSpecialForeColor);
+		transition: all 0.25s;
+	}
+
+td.cell:hover {
+	background-color: var(--Palette-SecondSpecialBackColor);
+	color: var(--Palette-SecondSpecialForeColor);
+	border-color: var(--Palette-SecondSpecialForeColor);
+	font-weight: bold;
 	transition: all 0.25s;
 }
-td.cell:hover{
-	background-color: #228866aa;
-	color: #fff;
-	border-color: #228866;
-	transition: all 0.25s;
-}
-div.caption{
-	color: #228866;
+
+div.caption {
+	color: var(--Palette-SpecialBackColor);
 	padding: 0px 5px;
 	margin: 10px 5px 5px;
 	text-align: center;
 	font-size: 80%;
 	font-style: italic;
-
 }
 
-div.footnote{
+div.footnote {
 	padding: 10px 20px 5px;
 	margin: 20px 5px 5px;
-	border-top: 3px solid #228866;
+	border-top: 3px solid var(--Palette-SpecialBackColor);
 	text-align: center;
 	font-size: 80%;
 	font-style: italic;
 }
 
-div.chart{
+div.chart {
 	min-width: 90vw;
 	min-height: 70vh;
-	max-width: 100%;`
+	max-width: 100%;
 	max-height: 100%;
 }
 
-span.value{
+span.value {
 	padding: 2px 3px;
 	margin: 0px;
 	margin-left: 2px;
 }
 
-span.pair{
+span.pair {
 	padding: inherit 2px;
 	margin: inherit 5px;
-	border-left: 1px solid #228866;
-	border-right: 1px solid #228866;
+	border-left: 1px solid var(--Palette-SpecialBackColor);
+	border-right: 1px solid var(--Palette-SpecialBackColor);
 }

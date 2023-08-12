@@ -101,7 +101,7 @@ Html.page = (title, content = null, description = null, attributes = {}, head = 
             [
                 isNull(title) ? "" : Html.superTitle(title),
                 isArray(content) ? (each(content, (item, i) => Html.part(null, item))).join("\r\n") : content,
-                isNull(title) ? "" : Html.caption(description)
+                isNull(description) ? "" : Html.caption(description)
             ].join("\r\n"),
             "div",
             { ...{ CLASS: "page"}, ...attributes }
