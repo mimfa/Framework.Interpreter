@@ -82,7 +82,6 @@ D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\MiMF
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\MiMFa Framework.dll.config
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\HtmlAgilityPack.pdb
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\HtmlAgilityPack.xml
-D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\obj\Debug\MiMFa.Interpreter.csprojAssemblyReference.cache
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\obj\Debug\MiMFa.Interpreter.csproj.CoreCompileInputs.cache
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\obj\Debug\MiMFa.Interpreter.csproj.CopyComplete
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\obj\Debug\MiMFa Framework.Interpreter.dll
@@ -100,3 +99,4 @@ D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\Syst
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\Microsoft.ClearScript.V8.Native.win-x64.props
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\Microsoft.ClearScript.V8.Native.win-x86.props
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\obj\Debug\MiMFa.Interpreter.csproj.AssemblyReference.cache
