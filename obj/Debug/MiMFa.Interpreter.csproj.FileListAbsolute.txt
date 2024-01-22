@@ -100,3 +100,4 @@ D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\Syst
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\Microsoft.ClearScript.V8.Native.win-x64.props
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\Microsoft.ClearScript.V8.Native.win-x86.props
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\obj\Debug\MiMFa.Interpreter.csproj.AssemblyReference.cache
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\Microsoft.mshtml.dll
