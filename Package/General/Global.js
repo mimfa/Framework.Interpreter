@@ -219,6 +219,22 @@ const loop       		= function(i,len = null, func = i=>i)
 		);
 }
 
+const first = function () {
+	if (arguments.length == 0) return null;
+	if (arguments.length == 1)
+		if (isArray(arguments[0])) return arguments[0][0];
+		else return arguments[0];
+	if (arguments.length > 1) return arguments[0];
+}
+
+const last = function () {
+	if (arguments.length == 0) return null;
+	if (arguments.length == 1)
+		if (isArray(arguments[0])) return arguments[0][arguments[0].length-1];
+		else return arguments[0];
+	if (arguments.length > 1) return arguments[0];
+}
+
 const count          	= function() 
 {
     return each.apply(null,arguments).length;
