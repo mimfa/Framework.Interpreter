@@ -80,7 +80,6 @@ D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\Mi
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\System.Data.SQLite.dll
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\HtmlAgilityPack.dll
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\System.ValueTuple.dll
-D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\HtmlAgilityPack.xml
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\obj\Release\MiMFa.Interpreter.csproj.CoreCompileInputs.cache
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\obj\Release\MiMFa.Interpreter.csproj.CopyComplete
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\obj\Release\MiMFa Framework.Interpreter.dll
@@ -100,5 +99,4 @@ D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\Mi
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\obj\Release\MiMFa.Interpreter.csproj.AssemblyReference.cache
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\MiMFa Framework.pdb
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\MiMFa Framework.dll.config
-D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\HtmlAgilityPack.pdb
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Release\Microsoft.mshtml.dll

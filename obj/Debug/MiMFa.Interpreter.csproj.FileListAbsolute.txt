@@ -80,8 +80,6 @@ D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\Syst
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\HtmlAgilityPack.dll
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\MiMFa Framework.pdb
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\MiMFa Framework.dll.config
-D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\HtmlAgilityPack.pdb
-D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\bin\Debug\HtmlAgilityPack.xml
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\obj\Debug\MiMFa.Interpreter.csproj.CoreCompileInputs.cache
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\obj\Debug\MiMFa.Interpreter.csproj.CopyComplete
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Interpreter\obj\Debug\MiMFa Framework.Interpreter.dll
