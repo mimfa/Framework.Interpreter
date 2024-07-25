@@ -61,4 +61,9 @@ String.enumerable       = function* (obj, nest = 0)
     yield String(obj);
 }
 
+String.format = function(template, ...args) {
+    return template.replace(/{([0-9]+)}/g, function (match, index) {
+        return typeof args[index] === 'undefined' ? match : args[index];
+    });
+}
 "String Library Installed Successfully"
