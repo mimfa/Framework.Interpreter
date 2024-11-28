@@ -13,6 +13,9 @@ function confirm(message, trsl = false) {
 function prompt(message, defaultValue = "", trsl = false) {
 	return Library.MiMFa.Service.DialogService.GetMessage(message+ "", defaultValue+ "", trsl);
 }
+function choice(message, defaultValue = "", options = [], trsl = false) {
+	return Library.MiMFa.Service.DialogService.GetMessage(message + "", defaultValue + "", trsl, options);
+}
 function warning(message, trsl = false) {
 	const res = Library.MiMFa.Service.DialogService.ShowMessage(MessageMode.Warning, trsl, message + "");
 	return res == Library.System.Windows.Forms.DialogResult.Yes? true :res == Library.System.Windows.Forms.DialogResult.No? false : null;
