@@ -100,7 +100,13 @@ const sign           = function() { return apply(Math.sign,Array.forceParseFloat
 
 const abs           = function() { return apply(Math.abs,Array.forceParseFloat.apply(null,arguments),1); };
 
-const random           = function() { return apply(Math.random,Array.forceParseFloat.apply(null,arguments),2); };
+const random = function () {
+    if (arguments.length == 0) return Math.random();
+    else if (arguments.length == 1 && isArray(arguments[0])) return arguments[0][parseInt(random(arguments[0].length))];
+    else if (arguments.length == 1) return arguments[0] * Math.random();
+    else if (arguments.length == 2) return Math.min(arguments[1], arguments[0]) + Math.abs(arguments[1] - arguments[0]) * Math.random();
+    else return arguments[parseInt(random(arguments.length))];
+};
 
 const decimals          = function() { return apply(Math.decimals,Array.forceParseFloat.apply(null,arguments),2); };
 
